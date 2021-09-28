@@ -40,4 +40,4 @@ The program RandomWalker that takes an int command-line argument n and simulates
 
 The PolygonTransform class mutates a polygon based on the given user input. These mutation include shifting, scaling, and rotating. 
 
-<p align="center"><img src="https://runestone.academy/runestone/books/published/csjava/_images/turtleOOD.png"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pentagon.svg/1200px-Pentagon.svg.png" width="400" height="400"/></p>
