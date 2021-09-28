@@ -2,7 +2,7 @@
 
 ### 🎉Init🎉 ###
 
-This repository is comprised of a handful of Java written programs that range from simple to more complicated. Some of the following files Standard Libraries in order to display images made from the code. To download and use these libraries, please follow this [LINK](https://introcs.cs.princeton.edu/java/stdlib/). The Summary of each file can be seen below!
+This repository is comprised of a handful of Java written programs that range from simple to more complicated which I wrote during my first year at university. Some of the following files Standard Libraries in order to display images made from the code. To download and use these libraries, please follow this [LINK](https://introcs.cs.princeton.edu/java/stdlib/). The Summary of each file can be seen below!
 
 <p align="center"><img src="https://64.media.tumblr.com/b939397bc11163b0a6f29fc4a3980c16/tumblr_inline_ngciu8uXPD1sgs7fm.jpg" /></p>
 
@@ -24,8 +24,20 @@ The Hadamard Matrix class builds a matrix based on the user input n. Please read
 
 <p align="center"><img src="https://www.cs.princeton.edu/courses/archive/spring03/cs126/assignments/hadamard1-16.gif" alt = "animated"/></p>
 
-## Turtle🐢 ##
+## Turtle.java 🐢 ##
 
 The Turtle class takes in two conditions from the command line, n and decay, and uses these conditions in order to calculate the turtles movement. 
+
+<p align="center"><img src="https://runestone.academy/runestone/books/published/csjava/_images/turtleOOD.png"/></p>
+
+## RandomWalker.java 🚶‍♂️ ##
+
+The program RandomWalker that takes an int command-line argument n and simulates the motion of a random walk for n steps. Prints the location at each step (including the starting point), treating the starting point as the origin (0, 0). Also, prints the square of the final Euclidean distance from the origin.
+
+<p align="center"><img src="https://bcan.org/wp-content/uploads/2019/09/Walking-Person-Icon.png" width="400" height="400"/></p>
+
+## PolygonTransform.java ##
+
+The PolygonTransform class mutates a polygon based on the given user input. These mutation include shifting, scaling, and rotating. 
 
 <p align="center"><img src="https://runestone.academy/runestone/books/published/csjava/_images/turtleOOD.png"/></p>
